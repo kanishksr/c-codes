@@ -14,3 +14,4 @@ void main()
     lcm=(num1*num2)/gcd;
     printf("LCM is %d",lcm);
 }
+
